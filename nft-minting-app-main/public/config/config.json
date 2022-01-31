@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb167ea084487c67c8bb84e436959169014b5ee315a6ba6cdde0d1a9a20be2ebd",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xb167ea084487c67c8bb84e436959169014b5ee315a6ba6cdde0d1a9a20be2ebd",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "weed punks",
+  "SYMBOL": "WPNFT",
+  "MAX_SUPPLY": 3869,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/weed-punks-2",
+  "SHOW_BACKGROUND": true
+}
